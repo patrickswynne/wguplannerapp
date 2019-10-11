@@ -1,0 +1,17 @@
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\bin\Debug\netstandard2.0\WGUPlanner.deps.json
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\bin\Debug\netstandard2.0\WGUPlanner.dll
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\bin\Debug\netstandard2.0\ref\WGUPlanner.dll
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\bin\Debug\netstandard2.0\WGUPlanner.pdb
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\WGUPlanner.csprojAssemblyReference.cache
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\WGUPlanner.AssemblyInfoInputs.cache
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\WGUPlanner.AssemblyInfo.cs
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\WGUPlanner.dll
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\ref\WGUPlanner.dll
+C:\Projects\ZZZ Testing Applications\WGUPlanner\WGUPlanner\WGUPlanner\obj\Debug\netstandard2.0\WGUPlanner.pdb
